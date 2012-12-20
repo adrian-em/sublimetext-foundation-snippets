@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<ul class="button-group radius">
+  <li><a href="${1:#}" class="button radius">${2:Button 1}</a></li>
+  <li><a href="${3:#}" class="button radius">${4:Button 2}</a></li>
+  <li><a href="${5:#}" class="button radius">${6:Button 3}</a></li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfbtngrp</tabTrigger>
+    <description>Zurb Foundation - Basic Button Group Radius</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="alert-box secondary">
+  ${1:This is a secondary alert (div.alert-box.secondary).}
+  <a href="" class="close">&times;</a>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsecal</tabTrigger>
+    <description>Zurb Foundation - Secondary Alert</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

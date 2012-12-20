@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="has-tip tip-left" data-width="90" title="${1:left!}">${2:"tip-left"}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zftipleft</tabTrigger>
+    <description>Zurb Foundation - Tip Left</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

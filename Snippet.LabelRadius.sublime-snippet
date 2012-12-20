@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="radius label">${1:Radius Label}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfradlab</tabTrigger>
+    <description>Zurb Foundation - Radius Label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

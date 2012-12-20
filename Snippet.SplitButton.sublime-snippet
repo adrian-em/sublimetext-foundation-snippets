@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<div href="#" class="large alert button split dropdown">
+  <a href="#">${1:Split Button}</a>
+    <span></span>
+  <ul>
+    <li><a href="#">${2:Dropdown Item}</a></li>
+    <li><a href="#">${3:Another Dropdown Item}</a></li>
+    <li class="divider"></li>
+    <li><a href="#">${4:Last Item}</a></li>
+  </ul>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsptbtn</tabTrigger>
+    <description>Zurb Foundation - Split Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

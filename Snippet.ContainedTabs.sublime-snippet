@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+<dl class="tabs contained">
+  <dt>${1:Title 1}</dt>
+  <dd class="active"><a href="#${2:simpleContained1}">${4:Simple Tab 1}</a></dd>
+  <dd class="hide-for-small"><a href="#${5:simpleContained2}">${5:Simple Tab 2}</a></dd>
+  <dt class="hide-for-small">${6:Title 1}</dt>
+  <dd class="hide-for-small"><a href="#${7:simpleContained3}">${8:Simple Tab 3}</a></dd>
+</dl>
+<ul class="tabs-content contained">
+  <li class="active" id="${2:simpleContained1}Tab">This is simple tab 1s content. Pretty neat, huh?</li>
+  <li id="${5:simpleContained2}Tab">This is simple tab 2s content. Now you see it!</li>
+  <li id="${7:simpleContained3}Tab">This is simple tab 3s content.</li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfctabs</tabTrigger>
+    <description>Zurb Foundation - Contained Tabs</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="alert-box alert">
+  ${1:This is an alert (div.alert-box.alert).}
+  <a href="" class="close">&times;</a>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+     <tabTrigger>zfalal</tabTrigger>
+     <description>Zurb Foundation - Alert Alert</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

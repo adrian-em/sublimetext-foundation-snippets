@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<dl class="sub-nav">
+  <dt>${1:Filter:}</dt>
+  <dd class="active"><a href="#">${2:All}</a></dd>
+  <dd><a href="#">${3:Active}</a></dd>
+  <dd><a href="#">${4:Pending}</a></dd>
+  <dd><a href="#">${5:Suspended}</a></dd>
+</dl>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsubnav</tabTrigger>
+    <description>Zurb Foundation - Sub Nav</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

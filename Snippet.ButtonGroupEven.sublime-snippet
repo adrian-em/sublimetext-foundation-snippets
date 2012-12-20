@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<ul class="button-group even ${1:three}-up">
+  <li><a href="${2:#}" class="button">${3:Button 1}</a></li>
+  <li><a href="${4:#}" class="button">${5:Button 2}</a></li>
+  <li><a href="${6:#}" class="button">${7:Button 3}</a></li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfevngrp</tabTrigger>
+    <description>Zurb Foundation - Even Button Group</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

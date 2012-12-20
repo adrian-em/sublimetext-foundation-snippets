@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="has-tip tip-top" data-width="210" title="${1:Top and not rounded!}">${2:"tip-top"}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zftiptop</tabTrigger>
+    <description>Zurb Foundation - Tip Top</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

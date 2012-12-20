@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="row">
+  <div class="six columns">
+    <div class="panel">
+      <h5>${1:This is a regular panel.}</h5>
+      <p>${2:It has an easy to override visual style, and is appropriately subdued.}</p>
+    </div>
+  </div>
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfpanel</tabTrigger>
+    <description>Zurb Foundation - Panel</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

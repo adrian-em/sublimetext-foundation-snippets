@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<dl class="tabs pill">
+  <dd class="active"><a href="#${1:pillTab1}">${2:Pill Tab 1}</a></dd>
+  <dd><a href="#${3:pillTab2}">${4:Pill Tab 2}</a></dd>
+  <dd class="hide-for-small"><a href="#${5:pillTab3}">${6:Pill Tab 3}</a></dd>
+</dl>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+     <tabTrigger>zfpilltab</tabTrigger>
+     <description>Zurb Foundation - Pill Tabs</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

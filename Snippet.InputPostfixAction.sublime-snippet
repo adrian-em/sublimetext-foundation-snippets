@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="row collapse">
+  <div class="ten mobile-three columns">
+    <input type="text" />
+  </div>
+  <div class="two mobile-one columns">
+    <a class="button expand postfix">${1:Search}</a>
+  </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfpostact</tabTrigger>
+    <description>Zurb Foundation - Input with Postfix Action</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

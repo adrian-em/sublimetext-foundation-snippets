@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<input type="submit" class="button${1:}" value="${2:Input Submit Button}" />
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfinpbtn</tabTrigger>
+    <description>Zurb Foundation - Input Submit Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

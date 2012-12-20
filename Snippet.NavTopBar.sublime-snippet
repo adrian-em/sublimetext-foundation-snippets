@@ -1,0 +1,88 @@
+<snippet>
+    <content><![CDATA[
+<div class="row">
+  <div class="twelve columns">
+    <nav class="top-bar">
+      <ul>
+        <!-- Title Area -->
+        <li class="name">
+          <h1>
+            <a href="#">
+              ${1:Top Bar Title}
+            </a>
+          </h1>
+        </li>
+        <li class="toggle-topbar"><a href="#"></a></li>
+      </ul>
+
+      <section>
+        <!-- Left Nav Section -->
+        <ul class="left">
+          <li class="divider"></li>
+          <li class="has-dropdown">
+            <a class="active" href="#">${2:Item 1}</a>
+            <ul class="dropdown">
+              <li><label>${3:Section Name}</label></li>
+              <li class="has-dropdown">
+                <a href="#" class="">${4:Level 1, Has Dropdown}</a>
+                <ul class="dropdown">
+                  <li><a href="#">${5:Level 2}</a></li>
+                  <li><a href="#">${6:Level 2}</a></li>
+                  <li class="has-dropdown"><a href="#">${7:Level 2, Has Dropdown}</a>
+                    <ul class="dropdown">
+                      <li><label>${8:Section}</label></li>
+                      <li><a href="#">${9:Level 3}</a></li>
+                      <li><a href="#">${10:Level 3}</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">${11:Level 3}</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">${12:Level 2}</a></li>
+                  <li><a href="#">${13:Level 2}</a></li>
+                </ul>
+              </li>
+              <li><a href="#">${14:Level 1}</a></li>
+              <li><a href="#">${15:Level 1}</a></li>
+              <li class="divider"></li>
+              <li><label>${16:Section Name}</label></li>
+              <li><a href="#">${17:Level 1}</a></li>
+              <li><a href="#">${18:Level 1}</a></li>
+              <li><a href="#">${19:Level 1}</a></li>
+              <li class="divider"></li>
+              <li><a href="#">${20:See all &rarr;}</a></li>
+            </ul>
+          </li>
+          <li class="divider hide-for-small"></li>
+        </ul>
+
+        <!-- Right Nav Section -->
+        <ul class="right">
+          <li class="divider show-for-medium-and-up"></li>
+          <li class="has-dropdown">
+            <a href="#">${21:Item 2}</a>
+            <ul class="dropdown">
+              <li><label>${22:Section Name}</label></li>
+              <li><a href="#" class="">${23:Level 1}</a></li>
+              <li><a href="#">${24:Dropdown Option}</a></li>
+              <li><a href="#">${25:Dropdown Option}</a></li>
+              <li class="divider"></li>
+              <li><label>${26:Section Name}</label></li>
+              <li><a href="#">${27:Dropdown Option}</a></li>
+              <li><a href="#">${28:Dropdown Option}</a></li>
+              <li><a href="#">${29:Dropdown Option}</a></li>
+              <li class="divider"></li>
+              <li><a href="#">${30:See all &rarr;}</a></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+    </nav>
+  </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zftopnav</tabTrigger>
+    <description>Zurb Foundation - Top Bar Navigation</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<label>${1:Input with a postfix label}</label>
+<div class="row">
+  <div class="five columns">
+    <div class="row collapse">
+      <div class="nine mobile-three columns">
+        <input type="text" />
+      </div>
+      <div class="three mobile-one columns">
+        <span class="postfix">${2:.com}</span>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfpost</tabTrigger>
+    <description>Zurb Foundation - Input with postfix label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

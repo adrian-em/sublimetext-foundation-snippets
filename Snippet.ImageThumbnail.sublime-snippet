@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<a href="#" class="th"><img src="${1:http://placehold.it/350x200}"></a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfthumb</tabTrigger>
+    <description>Zurb Foundation - Image Thumbnail</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

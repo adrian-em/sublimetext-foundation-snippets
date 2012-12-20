@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="label">${1:Normal Label}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfnrlab</tabTrigger>
+    <description>Zurb Foundation - Normal Label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

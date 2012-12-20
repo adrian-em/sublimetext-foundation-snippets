@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="secondary label">${1:Secondary Label}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zrsclab</tabTrigger>
+    <description>Zurb Foundation - Seconday Label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

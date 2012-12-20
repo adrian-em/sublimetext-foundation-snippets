@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<ul class="inline-list">
+  <li><a href="#">${1:Link 1}</a></li>
+  <li><a href="#">${2:Link 2}</a></li>
+  <li><a href="#">${3:Link 3}</a></li>
+  <li><a href="#">${4:Link 4}</a></li>
+  <li><a href="#">${5:Link 5}</a></li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfinline</tabTrigger>
+    <description>Zurb Foundation - Inline List</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

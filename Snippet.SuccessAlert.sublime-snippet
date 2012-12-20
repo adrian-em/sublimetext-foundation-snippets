@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="alert-box success">
+  ${1:This is a success alert (div.alert-box.success).}
+  <a href="" class="close">&times;</a>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfscal</tabTrigger>
+    <description>Zurb Foundation - Success Alert</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

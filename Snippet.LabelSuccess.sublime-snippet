@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="success label">${1:Success Label}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsuclabel</tabTrigger>
+    <description>Zurb Foundation - Success Label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

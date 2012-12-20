@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<dl class="vertical tabs">
+  <dd class="active"><a href="#${1:vertical1}">${2:Vertical Tab 1}</a></dd>
+  <dd><a href="#${3:vertical2}">${4:Vertical Tab 2}</a></dd>
+  <dd><a href="#${5:vertical3}">${6:Vertical Tab 3}</a></dd>
+</dl>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfvtabs</tabTrigger>
+    <description>Zurb Foundation - Vertical Tabs</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

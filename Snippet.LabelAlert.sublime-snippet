@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="alert label">${1:Alert Label}</span>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfallabl</tabTrigger>
+    <description>Zurb Foundation - Alert Label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

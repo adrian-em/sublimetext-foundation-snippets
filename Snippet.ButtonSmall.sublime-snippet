@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<a class="${1:small} button" href="#">${2:Small}</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsbtn</tabTrigger>
+    <description>Zurb Foundation - Small Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

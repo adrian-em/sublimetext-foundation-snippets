@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<label>${1:Input with a prefix character}</label>
+<div class="row">
+  <div class="four columns">
+    <div class="row collapse">
+      <div class="two mobile-one columns">
+        <span class="prefix">${2:#}</span>
+      </div>
+      <div class="ten mobile-three columns">
+        <input type="text" />
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfprefix</tabTrigger>
+    <description>Zurb Foundation - Input with prefix label</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<ul class="breadcrumbs">
+  <li><a href="#">${1:Home}</a></li>
+  <li><a href="#">${2:Features}</a></li>
+  <li class="unavailable"><a href="#">${3:Gene Splicing}</a></li>
+  <li class="current"><a href="#">${4:Home}</a></li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfbrd</tabTrigger>
+    <description>Zurb Foundation - Breadcrumbs</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

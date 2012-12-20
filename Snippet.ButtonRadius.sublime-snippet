@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<a class="radius button ${1:}" href="#">${2:Radius}</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfradbtn</tabTrigger>
+    <description>Zurb Foundation - Radius Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<ul class="four side-nav">
+  <li class="active"><a href="#">${1:Link 1}</a></li>
+  <li><a href="#">${2:Link 2}</a></li>
+  <li class="divider"></li>
+  <li><a href="#">${3:Link 3}</a></li>
+  <li><a href="#">${4:Link 4}</a></li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsidenav</tabTrigger>
+    <description>Zurb Foundation - Side Nav</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

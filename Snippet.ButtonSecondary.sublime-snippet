@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<a class="secondary button" href="#">${1:Secondary}</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>zfsecbtn</tabTrigger>
+    <description>Zurb Foundation - Secondary Button</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
